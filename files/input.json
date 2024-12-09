@@ -1,0 +1,26 @@
+{
+  "location_data": {   
+    "Horní Suchá" : {"formatted_address": "4668 Elgar Park","geometry": {"location": {"lat": 30.917795, "lng": 18.4424414}}},
+    "Belén Gualcho" : {"formatted_address": "82 Corscot Way","geometry": {"location": {"lat": 15.2988083, "lng": 18.4424414}}},
+    "Krajan" : {"formatted_address": "932 Old Gate Lane","geometry": {"location": {"lat": 8.287423, "lng": 30.8406447}}},
+    "Huashixia" : {"formatted_address": "3344 Fair Oaks Road","geometry": {"location": {"lat": 45.8836384, "lng": 28.0508097}}},
+    "Yaogu" : {"formatted_address": "756 Morrow Place","geometry": {"location": {"lat": 41.551649, "lng": 18.4230789}}},
+    "Miyang" : {"formatted_address": "013 Kinsman Alley","geometry": {"location": {"lat": 40.6236168, "lng": 30.9694163}}},
+    "Kostyantynivka" : {"formatted_address": "218 Haas Crossing","geometry": {"location": {"lat": 11.0849336, "lng": 31.0218404}}},
+    "Čajniče" : {"formatted_address": "8 Granby Avenue","geometry": {"location": {"lat": 52.20307, "lng": 27.7010725}}},
+    "Kurihashi" : {"formatted_address": "150 Thackeray Road","geometry": {"location": {"lat": 29.2378946, "lng": 18.5003109}}},
+    "Fengle" : {"formatted_address": "5860 Kropf Avenue","geometry": {"location": {"lat": 33.892817, "lng": 31.0675999}}},
+    "Apeldoorn" : {"formatted_address": "2295 Armistice Point","geometry": {"location": {"lat": 38.7508367, "lng": 28.2453549}}},
+    "Pavlovka" : {"formatted_address": "886 Talmadge Lane","geometry": {"location": {"lat": 51.4992969, "lng": 28.0855317}}},
+    "Fort Myers" : {"formatted_address": "183 Pankratz Way","geometry": {"location": {"lat": 53.7253057, "lng": 29.4179324}}},
+    "Igreja" : {"formatted_address": "64746 Eagle Crest Alley","geometry": {"location": {"lat": -8.3661233, "lng": 27.8155191}}},
+    "Danyang" : {"formatted_address": "3 Stephen Hill","geometry": {"location": {"lat": -7.1701665, "lng": 22.5357827}}},
+    "Khairiahmandah" : {"formatted_address": "241 Emmet Parkway","geometry": {"location": {"lat": 53.602954, "lng": 31.0692755}}},
+    "Kuanheum" : {"formatted_address": "2822 School Alley","geometry": {"location": {"lat": 57.7758077, "lng": 28.1122679}}},
+    "Drammen" : {"formatted_address": "987 Duke Junction","geometry": {"location": {"lat": 24.034527, "lng": 18.9712106}}},
+    "Lunang" : {"formatted_address": "1670 Maple Wood Center","geometry": {"location": {"lat": 40.1667409, "lng": 31.0397342}}},
+    "Taishan" : {"formatted_address": "75061 Fremont Street","geometry": {"location": {"lat": 26.5836, "lng": 18.4606882}}},
+    "Bolyarovo" : {"formatted_address": "1 Thompson Avenue","geometry": {"location": {"lat": 29.060527, "lng": 28.234276}}},
+    "El Cubolero" : {"formatted_address": "907 Lakewood Crossing","geometry": {"location": {"lat": 49.4289115, "lng": 28.2572933}}}
+  }
+}
